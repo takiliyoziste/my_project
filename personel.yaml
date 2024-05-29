@@ -4,29 +4,24 @@ personelList:
     last_name: Kavutlu
     email: onur.kavutlu@example.com
     job_title: Software Engineer
-    salary: 60000.00
   - id: 2
     first_name: Onur
     last_name: Smith
     email: onur.smith@example.com
     job_title: Data Analyst
-    salary: 65000.00
   - id: 3
     first_name: Onur
     last_name: Johnson
     email: Onur.j@example.com
     job_title: HR Specialist
-    salary: 55000.00
   - id: 4
     first_name: Onur
     last_name: Brown
     email: Onur.b@example.com
     job_title: Marketing Manager
-    salary: 70000.00
   - id: 5
     first_name: Onur
     last_name: White
     email: Onur.w@example.com
     job_title: IT Manager
-    salary: 75000.00
 
